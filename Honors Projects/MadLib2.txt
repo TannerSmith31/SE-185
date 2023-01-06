@@ -1,0 +1,2 @@
+animal,object,past tense verb,adjective
+One day, a large * flew through the window of my *. This frightened me and I * like a * child.

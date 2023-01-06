@@ -1,0 +1,2 @@
+name,color,noun,adjective
+* ate a * * and thought it was *.
